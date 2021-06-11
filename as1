@@ -1,0 +1,11 @@
+<!-- reload page for every 5 seconds,diplaying your name in the html body -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="refresh" content="5"=>
+	<title>AUTO REFRESH</title>
+</head>
+<body>
+vyshnavi gadiparthi
+</body>
+</html>

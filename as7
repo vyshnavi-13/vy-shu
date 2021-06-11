@@ -1,0 +1,18 @@
+<!--use script inside the body to display the datetime on html page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Display DATE</title>
+	<script>
+		function displayDate() {
+			document.getElementById("showDate").innerHTML =Date();
+			Date();
+		}
+	</script>
+</head>
+<body>
+	<button type="button" onclick="displayDate()">show Date</button>
+	<p id="showDate"></p>
+</body>
+</html>

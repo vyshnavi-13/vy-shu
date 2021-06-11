@@ -1,0 +1,14 @@
+<!-- DISPLAY YOUR NAME ON THE ALERT WINDOW CALLED THROUGH AN EXTERNAL JAVASCRIPT FILE OF A WEBPAGE -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>external scripting</title>
+	<script src="ass3.js"></script>
+</head>
+<body>
+<!--<script type="text/javascript">
+	document.write("hello world");-->
+</script>
+</body>
+</html>

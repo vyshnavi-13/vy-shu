@@ -1,0 +1,16 @@
+<!--put background color pink,and display all headingsfrom H1 TO H6 with different msgs with green color-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HEADINGS</title>
+</head>
+<body style="background-color: lightpink;">	
+<h1 style=color:green>this is heading one</h1>
+<h2 style=color:green>this is heading two</h2>
+<h3 style=color:green>this is heading three</h3>
+<h4 style=color:green>this is heading four</h4>
+<h5 style=color:green>this is heading five</h5>
+<h6 style=color:green>this is heading six</h6>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!-- display your college logo as a favicon for an html page using the link tag-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="icon" href="image/png" type="kitslogo.png">
+	<title>kitslogo</title>
+</head>
+<body>
+<h1>DISPLAYING ICON</h1>
+</body>
+</html>

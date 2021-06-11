@@ -1,0 +1,16 @@
+<!-- include meta tags(madblocks,html,webboot camp,microsoft certification,madblocks acadamy)also authourname create an htmlfile with the body as html meta tags -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="descrption" content="metatag keywords">
+	<meta name="keywords" content="madblocks,html,webbot camp,microsoft certification,madblocks acadamy">
+	<meta name="author" content="madhu parvathaneni sir">
+	<meta name="viewport" content="width=device-width",initial-scale=1.0>
+
+	<title>metatags</title>
+</head>
+<body>
+<p>All metatags information goes in the Head section...</p>
+</body>
+</html>

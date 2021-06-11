@@ -1,0 +1,6 @@
+body {
+	background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/louis-zamperini-family-quotes-1571153209.jpg);
+
+h1 
+	color: red;
+}
